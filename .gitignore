@@ -1,3 +1,21 @@
+openpose/backlog/*
+openpose/input/*
+openpose/output/*
+
+sm/backlog/*
+# sm/input/*
+sm/input/images/*
+sm/input/keypoints/*
+sm/lastmesh/*
+sm/output/images/*
+sm/output/meshes/*
+sm/output/results/*
+sm/output/conf.yaml
+
+.vscode
+node_modules
+old
+
 # Logs
 logs
 *.log

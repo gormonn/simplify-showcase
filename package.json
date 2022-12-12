@@ -19,7 +19,7 @@
   "homepage": "https://github.com/gormonn/simplify-showcase#readme",
   "dependencies": {
     "chokidar": "^3.4.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hyperwatch": "^0.5.4"
   }
 }
